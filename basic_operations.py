@@ -6,3 +6,7 @@ number2 = 5
 # addition operation
 sum = number1 + number2
 print(f"Addition of {number1} and {number2} is {sum} ")
+
+# subtraction
+difference = number1 - number2
+print(f"Subtraction of {number1} and {number2} is {difference} ")
